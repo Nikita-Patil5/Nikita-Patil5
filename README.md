@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img height="300px" src="https://user-images.githubusercontent.com/99407071/265520684-79dbe8e4-155d-410d-9bcd-020545a559b8.gif">
+  <img height="300px" src="https://drive.google.com/file/d/13pJAqZu7HjRr7vXCARB2k4K65D8JWxD7/view?usp=drive_link">
 </p>
 
 ---
