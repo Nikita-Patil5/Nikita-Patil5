@@ -27,10 +27,10 @@
 <a href="https://linkedin.com/in/nikita-patil-416064223" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.codechef.com/users/nikitapatil042" target="_blank">
+<!-- <a href="https://www.codechef.com/users/nikitapatil042" target="_blank">
 <img src=https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white alt=Codechef style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/nikitapatil04201" target="_blank">
+</a> -->
+<a href="https://www.hackerrank.com/patil_nikita" target="_blank">
 <img src=	https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=HackerRank style="margin-bottom: 5px;" />
 </a>
 
