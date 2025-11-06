@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/bad8445e-1ab4-4b66-890c-3875e235170b">
+  <img height="300" alt="Image" src="https://github.com/user-attachments/assets/bad8445e-1ab4-4b66-890c-3875e235170b">
 </p>
 
 ---
