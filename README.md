@@ -17,7 +17,7 @@
 - 🌱 Currently exploring **AWS** and **Artificial Intelligence** to expand my cloud and intelligent systems expertise.  
 - 👯 Looking to collaborate on **software development projects** that enhance my technical and problem-solving skills.  
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL, MongoDB, React, C#, Spring Boot, .NET Framework**.  
-- 📄 [**Know about my experiences**](https://drive.google.com/file/d/1RRMsV2Um_VKAxglFASz3fnNn6DWy6XCX/view?usp=drive_link)  
+- 📄 [**Know about my experiences**](https://drive.google.com/file/d/17eUAaA02vBCRJr4U0hTb4NX0fmYHIN1u/view?usp=drive_link)  
 - 📫 Reach me at **nikitapatil042000@gmail.com**
 
 ---
